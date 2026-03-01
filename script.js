@@ -7,7 +7,7 @@ const CORRECT_EMAIL    = "kushvin8@gmail.com";   // e.g. "you@example.com"
 const CORRECT_PASSWORD = "KushMamania";   // e.g. "mypassword123"
 
 // ── Fill in your redirect page link here ────
-const REDIRECT_URL = "cake.html";       // e.g. "portfolio.html" or "https://yoursite.com"
+const REDIRECT_URL = "page.html";       // e.g. "portfolio.html" or "https://yoursite.com"
 
 // ════════════════════════════════════════════
 //   DO NOT EDIT BELOW THIS LINE
