@@ -1,35 +1,25 @@
-# Personal Portfolio Website
-A fully responsive, immersive personal portfolio website built with HTML, CSS, and JavaScript — featuring a secure login page, cyberpunk-themed UI, and real-time contact form integration.
+# Kush Mamania — Personal Portfolio
+ 
+A cinematic, scroll-driven personal portfolio website with a looping gold video background, Iron Man red/gold theme, and smooth reveal animations.
+ 
+---
+ 
+## 🚀 Live Demo
+ 
+https://myportfolio-beige-delta-80.vercel.app/
+ 
+---
+ 
+## ✨ Features
+ 
+- **Looping Gold Video Background** — seamless dual-video crossfade, zero visible loop seam
+- **Iron Man Red/Gold Theme** — deep dark red background, red-orange accents, gold highlights
+- **Scroll Animations** — elements reveal on scroll using IntersectionObserver
+- **Count-up Stats** — animated numbers in the About section
+- **Active Nav & Side Dots** — highlight current section as you scroll
+- **Progress Bar** — red-to-gold gradient at the top tracks scroll position
+- **Project Thumbnails** — image with zoom-on-hover and overlay links
+- **Contact Form** — powered by Web3Forms, no backend needed
+- **Fully Responsive** — works on desktop, tablet and mobile
 
-## Preview
-
-Login Page → Portfolio Page (unlocked after authentication)
-
-## Features
-
-- 🔐 **Secure Login System**
-  Credential validation with error handling and auto-redirect on success
-
-- 🌌 **Cyberpunk UI**
-  Glassmorphism cards, animated aurora backgrounds, floating particle constellations, and 3D card tilt on mouse movement
-
-- 👤 **Hero Section**
-  Profile photo, name, role, social links, and a downloadable CV
-
-- 🧠 **About Me**
-  Bio, stats, and personal details card
-
-- ⚡ **Skills Section**
-  Animated progress bars triggered on scroll for Frontend, Backend, and DevOps
-
-- 🛠 **Projects Gallery**
-  Image previews, hover overlays with Live and GitHub links
-
-- 📬 **Contact Form**
-  Real-time email delivery via Web3Forms API, with loading states and error handling
-
-- 📱 **Fully Responsive**
-  Works seamlessly on all screen sizes
-
-- 🎯 **Smooth Scroll Navigation**
-  Scroll-reactive navbar and section-to-section smooth scrolling
+---
